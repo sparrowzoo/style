@@ -18,7 +18,7 @@
 
 <!DOCTYPE module PUBLIC
     "-//Puppy Crawl//DTD Check Configuration 1.3//EN"
-    "http://www.puppycrawl.com/dtds/configuration_1_3.dtd">
+    "http://www.sparrowzoo.com/dtds/configuration_1_3.dtd">
 <!--Refer http://checkstyle.sourceforge.net/reports/google-java-style.html#s2.2-file-encoding -->
 <!--http://checkstyle.sourceforge.net/config_header.html -->
 <module name="Checker">
