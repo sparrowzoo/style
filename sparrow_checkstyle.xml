@@ -79,7 +79,7 @@
 
         <!--Checks that classes that override equals() also override hashCode()-->
         <module name="EqualsHashCode"/>
-        <!--Checks for over-complicated boolean expressions. Currently finds code like if (topic == true), topic || true, !false, etc.-->
+        <!--Checks for over-complicated boolean expressions. Currently finds code up if (topic == true), topic || true, !false, etc.-->
         <module name="SimplifyBooleanExpression"/>
         <module name="OneStatementPerLine"/>
         <module name="UnnecessaryParentheses"/>
